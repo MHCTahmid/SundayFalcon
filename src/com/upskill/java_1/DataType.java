@@ -11,8 +11,8 @@ public class DataType {
 		System.out.println("Hello World, This is Tahmid");
 
 		
-		int a = 10;
-		int b = 25;
+		int a = 30;
+		int b = 55;
 		int c = a+b ;
 		System.out.println(c);
 		
