@@ -5,14 +5,14 @@ package com.upskill.java_1;
 public class Variables {
 	
 	
-	public String country = "United States of America";									/*Instance or Global variable - variable declared in class level, outside method*/
+	public String country = "USA";									/*Instance or Global variable - variable declared in class level, outside method*/
 	
 	static String region = "America";								/*Static variable - variable belong to class and don't need an object*/
 
 	public static void main(String[] args) {
 		
 		Variables obj = new Variables();
-		String city = "NYC";									/*local variable - variable declared in method*/
+		String city = "New York";									/*local variable - variable declared in method*/
 		obj.CT("Essex");
 	}
 	
