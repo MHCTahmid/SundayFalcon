@@ -12,7 +12,7 @@ public class Variables {
 	public static void main(String[] args) {
 		
 		Variables obj = new Variables();
-		String city = "New York";									/*local variable - variable declared in method*/
+		String city = "NYC";									/*local variable - variable declared in method*/
 		obj.CT("Essex");
 	}
 	
