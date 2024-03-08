@@ -7,7 +7,7 @@ public class Variables {
 	
 	public String country = "USA";									/*Instance or Global variable - variable declared in class level, outside method*/
 	
-	static String region = "America";								/*Static variable - variable belong to class and don't need an object*/
+	static String region = "Nort America";								/*Static variable - variable belong to class and don't need an object*/
 
 	public static void main(String[] args) {
 		
